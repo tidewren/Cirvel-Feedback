@@ -58,11 +58,7 @@ body:
       label: compose 配置
       description: 去掉 PLEX_CLAIM 等敏感值后再贴
       render: yaml
-  - type: textarea
-    id: logs
+  - type: markdown
     attributes:
-      label: 日志
-      description: |
-        容器日志，或 Plex 日志目录下的 Cirvel.log 相关片段。
-        贴出前请去掉 Plex token（X-Plex-Token）、带签名参数的链接与媒体路径。
-      render: text
+      value: |
+        **日志请不要贴在这里。** 日志可能含媒体路径与客户端地址，请在管理面板「诊断」页下载日志，发邮件到 support@tidewren.com，邮件里注明这个 issue 的编号。

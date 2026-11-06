@@ -9,7 +9,7 @@
 
 Cirvel 的问题反馈与功能建议。
 
-使用中遇到问题或有想法，请在这里[提交 issue](https://github.com/tidewren/Cirvel-Feedback/issues/new/choose)。授权码与购买相关的问题请发邮件到 support@tidewren.com，不要在公开 issue 里贴授权码。
+使用中遇到问题或有想法，请在这里[提交 issue](https://github.com/tidewren/Cirvel-Feedback/issues/new/choose)。授权码与购买相关的问题请发邮件到 support@tidewren.com，不要在公开 issue 里贴授权码。日志可能含媒体路径与客户端地址，也请发到这个邮箱并注明 issue 编号，不要贴在 issue 里。
 
 - 部署、功能介绍与常见问题见官网 [cirvel.tidewren.com](https://cirvel.tidewren.com)
 - 镜像 `tidewren/cirvel`，同时发布在 `ghcr.io/tidewren/cirvel`
